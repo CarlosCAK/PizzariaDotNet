@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GestaoPizzaria",
+    "\\GestaoPizzaria\\GestaoPizzaria",
+    "\\GestaoPizzaria\\GestaoPizzaria\\aplicacao",
+    "\\GestaoPizzaria\\GestaoPizzaria\\apresentacao",
+    "\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura",
+    "\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios"
+  ],
+  "SelectedNode": "\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\IPedidoRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
