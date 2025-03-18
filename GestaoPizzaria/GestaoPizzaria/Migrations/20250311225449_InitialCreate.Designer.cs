@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GestaoPizzaria.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250312004510_InitialCreate")]
+    [Migration("20250311225449_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -41,7 +41,7 @@ namespace GestaoPizzaria.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Pedidos");
+                    b.ToTable("pedidos");
                 });
 
             modelBuilder.Entity("GestaoPizzaria.dominio.entidades.Pizza", b =>

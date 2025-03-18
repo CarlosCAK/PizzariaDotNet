@@ -36,12 +36,14 @@
             lblPreco = new Label();
             btnSalvar = new Button();
             btnExcluir = new Button();
-            dataGridView1 = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            dtgPizzas = new DataGridView();
+            btnLimpar = new Button();
+            ((System.ComponentModel.ISupportInitialize)dtgPizzas).BeginInit();
             SuspendLayout();
             // 
             // txtId
             // 
+            txtId.Enabled = false;
             txtId.Location = new Point(92, 56);
             txtId.Name = "txtId";
             txtId.Size = new Size(100, 23);
@@ -49,16 +51,16 @@
             // 
             // txtNome
             // 
-            txtNome.Location = new Point(198, 56);
+            txtNome.Location = new Point(198, 57);
             txtNome.Name = "txtNome";
-            txtNome.Size = new Size(100, 23);
+            txtNome.Size = new Size(129, 23);
             txtNome.TabIndex = 1;
             // 
             // txtPreco
             // 
-            txtPreco.Location = new Point(304, 56);
+            txtPreco.Location = new Point(333, 57);
             txtPreco.Name = "txtPreco";
-            txtPreco.Size = new Size(100, 23);
+            txtPreco.Size = new Size(142, 23);
             txtPreco.TabIndex = 2;
             // 
             // idLbl
@@ -82,7 +84,7 @@
             // lblPreco
             // 
             lblPreco.AutoSize = true;
-            lblPreco.Location = new Point(304, 39);
+            lblPreco.Location = new Point(333, 39);
             lblPreco.Name = "lblPreco";
             lblPreco.Size = new Size(37, 15);
             lblPreco.TabIndex = 5;
@@ -90,36 +92,50 @@
             // 
             // btnSalvar
             // 
-            btnSalvar.Location = new Point(435, 55);
+            btnSalvar.Location = new Point(481, 55);
             btnSalvar.Name = "btnSalvar";
             btnSalvar.Size = new Size(75, 23);
             btnSalvar.TabIndex = 6;
             btnSalvar.Text = "Salvar";
             btnSalvar.UseVisualStyleBackColor = true;
+            btnSalvar.Click += btnSalvar_Click;
             // 
             // btnExcluir
             // 
-            btnExcluir.Location = new Point(435, 85);
+            btnExcluir.Location = new Point(481, 84);
             btnExcluir.Name = "btnExcluir";
             btnExcluir.Size = new Size(75, 23);
             btnExcluir.TabIndex = 7;
             btnExcluir.Text = "Excluir";
             btnExcluir.UseVisualStyleBackColor = true;
+            btnExcluir.Click += btnExcluir_Click;
             // 
-            // dataGridView1
+            // dtgPizzas
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(91, 90);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(313, 204);
-            dataGridView1.TabIndex = 8;
+            dtgPizzas.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dtgPizzas.Location = new Point(92, 90);
+            dtgPizzas.Name = "dtgPizzas";
+            dtgPizzas.Size = new Size(383, 210);
+            dtgPizzas.TabIndex = 8;
+            dtgPizzas.CellDoubleClick += dtgPizzas_CellDoubleClick;
+            // 
+            // btnLimpar
+            // 
+            btnLimpar.Location = new Point(481, 113);
+            btnLimpar.Name = "btnLimpar";
+            btnLimpar.Size = new Size(75, 23);
+            btnLimpar.TabIndex = 9;
+            btnLimpar.Text = "Limpar";
+            btnLimpar.UseVisualStyleBackColor = true;
+            btnLimpar.Click += btnLimpar_Click;
             // 
             // FormularioCadastroPizza
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(dataGridView1);
+            Controls.Add(btnLimpar);
+            Controls.Add(dtgPizzas);
             Controls.Add(btnExcluir);
             Controls.Add(btnSalvar);
             Controls.Add(lblPreco);
@@ -130,7 +146,8 @@
             Controls.Add(txtId);
             Name = "FormularioCadastroPizza";
             Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            Load += FormularioCadastroPizza_Load;
+            ((System.ComponentModel.ISupportInitialize)dtgPizzas).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -145,6 +162,8 @@
         private Label lblPreco;
         private Button btnSalvar;
         private Button btnExcluir;
-        private DataGridView dataGridView1;
+        private DataGridView inforacoesPizza;
+        private DataGridView dtgPizzas;
+        private Button btnLimpar;
     }
 }

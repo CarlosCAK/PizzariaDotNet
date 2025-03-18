@@ -22,9 +22,10 @@ namespace GestaoPizzaria.aplicacao
 
         public void Atualizar(string nome, double preco, int id)
         {
-            Pizza pizza = new Pizza(nome,preco);
+            Pizza pizza = new Pizza(id,nome,preco);
+       
             _dominioServico.Validar(pizza);
-            _repository.Salvar(pizza);
+            _repository.Atualizar(pizza);
         }
 
         public Pizza? BuscarPorId(int id)
@@ -46,7 +47,8 @@ namespace GestaoPizzaria.aplicacao
 
         public void Salvar(string nome, double preco)
         {
-            throw new NotImplementedException();
+            Pizza pizza = new Pizza(nome,preco);
+            _repository.Salvar(pizza);
         }
     }
 }

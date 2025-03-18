@@ -33,12 +33,21 @@ namespace GestaoPizzaria
             services.AddScoped<IPizzaDominioServico, PizzaDominioServiceIMPL>();
             services.AddScoped<IPedidoDominioServico, PedidoDominioServicoIMPL>();
             services.AddScoped<IPizzaAppServico, PizzaAppServicoIMPL>();
+            
 
             var serviceProvider = services.BuildServiceProvider();
 
+          
+            
+                ApplicationConfiguration.Initialize();
+                Application.Run(new FormularioCadastroPizza(serviceProvider));
+       
+           
+         
 
-            ApplicationConfiguration.Initialize();
-            Application.Run(new FormularioCadastroPizza());
+
+            
+         
         }
     }
 }

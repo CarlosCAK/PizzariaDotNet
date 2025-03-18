@@ -38,7 +38,7 @@ namespace GestaoPizzaria.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Pedidos");
+                    b.ToTable("pedidos");
                 });
 
             modelBuilder.Entity("GestaoPizzaria.dominio.entidades.Pizza", b =>

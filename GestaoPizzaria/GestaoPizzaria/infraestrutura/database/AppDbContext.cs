@@ -13,7 +13,10 @@ namespace GestaoPizzaria.infraestrutura.database
         public DbSet<Pizza> Pizzas { get; set; }
         public DbSet<Pedido> Pedidos { get; set; }
 
-      
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "pizzaria.db");

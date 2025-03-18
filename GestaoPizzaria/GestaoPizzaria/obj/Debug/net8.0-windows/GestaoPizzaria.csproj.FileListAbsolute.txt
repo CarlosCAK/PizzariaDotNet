@@ -278,6 +278,7 @@ C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\Gesta
 C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\GestaoPizzaria\obj\Debug\net8.0-windows\GestaoPizzaria.AssemblyInfoInputs.cache
 C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\GestaoPizzaria\obj\Debug\net8.0-windows\GestaoPizzaria.AssemblyInfo.cs
 C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\GestaoPizzaria\obj\Debug\net8.0-windows\GestaoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\GestaoPizzaria\obj\Debug\net8.0-windows\GestaoPizzaria.sourcelink.json
 C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\GestaoPizzaria\obj\Debug\net8.0-windows\GestaoPi.82F038B4.Up2Date
 C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\GestaoPizzaria\obj\Debug\net8.0-windows\GestaoPizzaria.dll
 C:\Users\carlos_kviatkowsky\Documents\GitHub\PizzariaDotNet\GestaoPizzaria\GestaoPizzaria\obj\Debug\net8.0-windows\refint\GestaoPizzaria.dll
