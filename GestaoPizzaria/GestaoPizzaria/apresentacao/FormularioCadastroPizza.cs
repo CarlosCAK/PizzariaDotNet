@@ -29,6 +29,7 @@ namespace GestaoPizzaria
             if (!double.TryParse(txtPreco.Text, out double Preco) || Preco <= 0)
             {
                 MessageBox.Show("Preço inválido");
+                return;
             }
             if (string.IsNullOrEmpty(txtNome.Text))
             {

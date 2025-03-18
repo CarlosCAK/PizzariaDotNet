@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\infraestrutura\\repositorios\\pizzarepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\infraestrutura\\repositorios\\pizzarepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\infraestrutura\\repositorios\\pedidorespositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\infraestrutura\\repositorios\\pedidorespositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|c:\\users\\carlos_kviatkowsky\\documents\\github\\pizzariadotnet\\gestaopizzaria\\gestaopizzaria\\apresentacao\\formulariocadastropizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\apresentacao\\formulariocadastropizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\aplicacao\\ipizzaappservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\infraestrutura\\repositorios\\pizzarepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\infraestrutura\\repositorios\\pizzarepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\aplicacao\\pizzaappservicoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\aplicacao\\pizzaappservicoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\dominio\\servico\\pizzadominioserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\dominio\\servico\\pizzadominioserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|c:\\users\\carlos_kviatkowsky\\documents\\github\\pizzariadotnet\\gestaopizzaria\\gestaopizzaria\\infraestrutura\\repositorios\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\infraestrutura\\repositorios\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\dominio\\servico\\ipizzadominioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\apresentacao\\formulariocadastropizza.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\apresentacao\\formulariocadastropizza.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\infraestrutura\\repositorios\\pedidorespositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|solutionrelative:gestaopizzaria\\infraestrutura\\repositorios\\pedidorespositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0379E97B-5ACA-4B5B-9574-BF595B9675B5}|GestaoPizzaria\\GestaoPizzaria.csproj|C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\gestaopizzaria\\dominio\\servico\\pedidodominioservicoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,17 +78,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormularioCadastroPizza.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
               "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
               "RelativeToolTip": "GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAoAAABIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T22:05:31.127Z",
               "IsPinned": true,
@@ -92,54 +96,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormularioCadastroPizza.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
-              "RelativeDocumentMoniker": "GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
-              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\source\\repos\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs [Projeto]*",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs [Projeto]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T21:58:52.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPizzaAppServico.cs",
-              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
-              "RelativeDocumentMoniker": "GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
-              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
-              "RelativeToolTip": "GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T22:18:26.94Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IPizzaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
-              "RelativeDocumentMoniker": "GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
-              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
-              "RelativeToolTip": "GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
+              "Title": "PizzaAppServicoIMPL.cs",
+              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
+              "RelativeDocumentMoniker": "GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
+              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
+              "RelativeToolTip": "GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T22:28:55.016Z"
+              "WhenOpened": "2025-03-12T00:08:30.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FormularioCadastroPizza.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
+              "RelativeDocumentMoniker": "GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs",
+              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs [Projeto]",
+              "RelativeToolTip": "GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:58:52.715Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PizzaRepositoryIMPL.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\PizzaRepositoryIMPL.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\infraestrutura\\repositorios\\PizzaRepositoryIMPL.cs",
               "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\PizzaRepositoryIMPL.cs",
               "RelativeToolTip": "GestaoPizzaria\\infraestrutura\\repositorios\\PizzaRepositoryIMPL.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBQAAAAqAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T22:31:01.067Z"
+              "WhenOpened": "2025-03-11T22:31:01.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PizzaDominioServiceIMPL.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\dominio\\servico\\PizzaDominioServiceIMPL.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\dominio\\servico\\PizzaDominioServiceIMPL.cs",
@@ -147,23 +142,64 @@
               "RelativeToolTip": "GestaoPizzaria\\dominio\\servico\\PizzaDominioServiceIMPL.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T23:38:28.871Z"
+              "WhenOpened": "2025-03-11T23:38:28.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoRespositoryIMPL.cs",
+              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
+              "RelativeDocumentMoniker": "GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
+              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
+              "RelativeToolTip": "GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:34:13.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PizzaAppServicoIMPL.cs",
-              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
-              "RelativeDocumentMoniker": "GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
-              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
-              "RelativeToolTip": "GestaoPizzaria\\aplicacao\\PizzaAppServicoIMPL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Title": "IPizzaAppServico.cs",
+              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
+              "RelativeDocumentMoniker": "GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
+              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
+              "RelativeToolTip": "GestaoPizzaria\\aplicacao\\IPizzaAppServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T00:08:30.319Z"
+              "WhenOpened": "2025-03-18T22:18:26.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "IPizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
+              "RelativeDocumentMoniker": "GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
+              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
+              "RelativeToolTip": "GestaoPizzaria\\infraestrutura\\repositorios\\IPizzaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:28:55.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "GestaoPizzaria\\infraestrutura\\repositorios\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\IPedidoRepository.cs",
+              "RelativeToolTip": "GestaoPizzaria\\infraestrutura\\repositorios\\IPedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:17:14.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IPizzaDominioServico.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\dominio\\servico\\IPizzaDominioServico.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\dominio\\servico\\IPizzaDominioServico.cs",
@@ -175,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\Program.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\Program.cs",
@@ -188,18 +224,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "PedidoRespositoryIMPL.cs",
-              "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
-              "RelativeDocumentMoniker": "GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
-              "ToolTip": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
-              "RelativeToolTip": "GestaoPizzaria\\infraestrutura\\repositorios\\PedidoRespositoryIMPL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T22:34:13.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\infraestrutura\\database\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\infraestrutura\\database\\AppDbContext.cs",
@@ -211,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FormularioCadastroPizza.Designer.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.Designer.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.Designer.cs",
@@ -219,11 +243,12 @@
               "RelativeToolTip": "GestaoPizzaria\\apresentacao\\FormularioCadastroPizza.Designer.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T21:33:54.248Z"
+              "WhenOpened": "2025-03-18T21:33:54.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PedidoDominioServicoIMPL.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\dominio\\servico\\PedidoDominioServicoIMPL.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\dominio\\servico\\PedidoDominioServicoIMPL.cs",
@@ -235,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IPedidoDominioServico.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\dominio\\servico\\IPedidoDominioServico.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\dominio\\servico\\IPedidoDominioServico.cs",
@@ -247,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\dominio\\entidades\\Pedido.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\dominio\\entidades\\Pedido.cs",
@@ -259,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20250311225449_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\carlos_kviatkowsky\\Documents\\GitHub\\PizzariaDotNet\\GestaoPizzaria\\GestaoPizzaria\\Migrations\\20250311225449_InitialCreate.cs",
               "RelativeDocumentMoniker": "GestaoPizzaria\\Migrations\\20250311225449_InitialCreate.cs",

@@ -20,7 +20,6 @@ namespace GestaoPizzaria.infraestrutura.repositorios
 
         public void Atualizar(Pizza pizza)
         {
-            MessageBox.Show("to aq ");
             var pizzaExistente = BuscarPorId(pizza.Id);
 
             if (pizzaExistente == null)
